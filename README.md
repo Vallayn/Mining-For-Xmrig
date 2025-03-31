@@ -1,2 +1,2 @@
-# Mining-For-Xmrig
+# Mining For Xmrig
 Xmrig + config.json + Nicehash
